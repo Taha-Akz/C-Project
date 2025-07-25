@@ -1,3 +1,3 @@
 ## Contributors
 
-[👨‍💻 مشاهده‌ی تمامی مشارکت‌کنندگان و نمودار فعالیت‌ها](https://github.com/OWNER/REPO/graphs/contributors)
+[👨‍💻 مشاهده‌ی تمامی مشارکت‌کنندگان و نمودار فعالیت‌ها](https://github.com/Taha-Akz/C-Project/graphs/contributors)
