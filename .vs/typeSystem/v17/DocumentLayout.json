@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TahaAKZ\\Desktop\\C#-Project\\Systemtype\\",
+  "WorkspaceRootPath": "C:\\Users\\Mohamad\\Desktop\\C-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B885F8BC-2415-4725-8BDF-FCC95CAC629B}|typeSystem\\typeSystem.csproj|c:\\users\\tahaakz\\desktop\\c#-project\\systemtype\\typesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B885F8BC-2415-4725-8BDF-FCC95CAC629B}|typeSystem\\typeSystem.csproj|solutionrelative:typesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mohamad\\Desktop\\C-Project\\typeSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:typeSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,27 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TahaAKZ\\Desktop\\C#-Project\\Systemtype\\typeSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohamad\\Desktop\\C-Project\\typeSystem\\Program.cs",
               "RelativeDocumentMoniker": "typeSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\TahaAKZ\\Desktop\\C#-Project\\Systemtype\\typeSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohamad\\Desktop\\C-Project\\typeSystem\\Program.cs",
               "RelativeToolTip": "typeSystem\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
