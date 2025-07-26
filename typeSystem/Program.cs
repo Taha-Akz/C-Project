@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string msg = "I hope All people one day be happy";
+Console.WriteLine("msg:{0}", msg);
