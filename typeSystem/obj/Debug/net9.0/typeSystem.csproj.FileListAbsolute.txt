@@ -1,0 +1,15 @@
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\bin\Debug\net9.0\typeSystem.exe
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\bin\Debug\net9.0\typeSystem.deps.json
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\bin\Debug\net9.0\typeSystem.runtimeconfig.json
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\bin\Debug\net9.0\typeSystem.dll
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\bin\Debug\net9.0\typeSystem.pdb
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\obj\Debug\net9.0\typeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\obj\Debug\net9.0\typeSystem.AssemblyInfoInputs.cache
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\obj\Debug\net9.0\typeSystem.AssemblyInfo.cs
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\obj\Debug\net9.0\typeSystem.csproj.CoreCompileInputs.cache
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\obj\Debug\net9.0\typeSystem.sourcelink.json
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\obj\Debug\net9.0\typeSystem.dll
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\obj\Debug\net9.0\refint\typeSystem.dll
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\obj\Debug\net9.0\typeSystem.pdb
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\obj\Debug\net9.0\typeSystem.genruntimeconfig.cache
+C:\Users\TahaAKZ\Desktop\C#-Project\tutorial\typeSystem\obj\Debug\net9.0\ref\typeSystem.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TahaAKZ\\Desktop\\C#-Project\\tutorial\\Fundamental_Types\\typeSystem.csproj",
+      "projectUniqueName": "C:\\Users\\TahaAKZ\\Desktop\\C#-Project\\tutorial\\typeSystem\\typeSystem.csproj",
       "projectName": "typeSystem",
-      "projectPath": "C:\\Users\\TahaAKZ\\Desktop\\C#-Project\\tutorial\\Fundamental_Types\\typeSystem.csproj",
+      "projectPath": "C:\\Users\\TahaAKZ\\Desktop\\C#-Project\\tutorial\\typeSystem\\typeSystem.csproj",
       "packagesPath": "C:\\Users\\TahaAKZ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TahaAKZ\\Desktop\\C#-Project\\tutorial\\Fundamental_Types\\obj\\",
+      "outputPath": "C:\\Users\\TahaAKZ\\Desktop\\C#-Project\\tutorial\\typeSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
