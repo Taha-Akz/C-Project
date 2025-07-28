@@ -1,0 +1,5 @@
+C:\Users\Mohamad\Desktop\C-Project\Fundamental_Types\obj\Debug\net9.0\typeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamad\Desktop\C-Project\Fundamental_Types\obj\Debug\net9.0\typeSystem.AssemblyInfoInputs.cache
+C:\Users\Mohamad\Desktop\C-Project\Fundamental_Types\obj\Debug\net9.0\typeSystem.AssemblyInfo.cs
+C:\Users\Mohamad\Desktop\C-Project\Fundamental_Types\obj\Debug\net9.0\typeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\Desktop\C-Project\Fundamental_Types\obj\Debug\net9.0\typeSystem.sourcelink.json

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "bWCcsHOeQ/c=",
   "success": true,
   "projectFilePath": "C:\\Users\\TahaAKZ\\Desktop\\C#-Project\\tutorial\\Fundamental_Types\\typeSystem.csproj",
+=======
+  "dgSpecHash": "d7COQMSPy8s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohamad\\Desktop\\C-Project\\Fundamental_Types\\typeSystem.csproj",
+>>>>>>> dc1ea840e442f2faf5b63080f34dbb9720a3b5f0
   "expectedPackageFiles": [],
   "logs": []
 }
